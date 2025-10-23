@@ -8,5 +8,7 @@ chicken fry
 mojito
 paneer
 
+beans
+burger
 
 Thank you :)
